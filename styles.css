@@ -1,0 +1,120 @@
+.art {
+    display:flex;
+    justify-content:space-around;
+}
+
+.coding {
+    display:flex;
+    justify-content:space-around;
+}
+
+.env {
+    display:flex;
+    justify-content:space-around;
+}
+
+.algebra {
+    display:flex;
+    justify-content:space-around;
+}
+
+.gym {
+    display:flex;
+    justify-content:space-around;
+}
+
+.history {
+    display:flex;
+    justify-content:space-around;
+}
+
+.english {
+    display:flex;
+    justify-content:space-around;
+}
+
+.button {
+    display:flex;
+    padding:10px;
+}
+
+body {
+    background-color:#ffdd57;
+}
+
+.grade1 {
+    color:#ffdd57;
+}
+
+.grade2 {
+    color:#ffdd57;
+}
+
+.grade3 {
+    color:#ffdd57;
+}
+
+.grade4 {
+    color:#ffdd57;
+}
+
+.grade5 {
+    color:#ffdd57;
+}
+
+.grade5 {
+    color:#ffdd57;
+}
+
+.grade6 {
+    color:#ffdd57;
+}
+
+.grade7 {
+    color:#ffdd57;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height:350px;
+    border-radius:50px;
+    
+    box-shadow: 15px 15px 10px #ffa269;
+}
+
+.mel {
+    text-align:center;
+    font-family: 'VT323', monospace;
+}
+
+.school {
+    text-align:center;
+    font-family: 'VT323', monospace;
+}
+
+button {
+    background-color:#ff7c2b;
+    font-size:20px;
+    border-radius:100px;
+    font-family: 'VT323', monospace; 
+    margin:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
